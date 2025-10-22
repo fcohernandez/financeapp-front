@@ -12,7 +12,7 @@ export function HomeScreen() {
         <div className="flex flex-col justify-center items-center h-full pt-5 gap-6">
             <h1>Cuentas</h1>
             <h2>Estado general</h2>
-            <div className="w-80">
+            <div className="w-120">
                 <WalletStatus />
             </div>
             <div className="w-80">
